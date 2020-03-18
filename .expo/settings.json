@@ -3,5 +3,6 @@
   "lanType": "ip",
   "dev": true,
   "minify": false,
-  "urlRandomness": "nx-r8m"
+  "urlRandomness": "gp-26d",
+  "https": false
 }
